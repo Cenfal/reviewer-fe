@@ -1,0 +1,266 @@
+[
+    {
+        "id": "1",
+        "logo": "companyLogo1",
+        "name": "companyName1",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "telecom"
+    },
+    {
+        "id": "2",
+        "logo": "companyLogo2",
+        "name": "companyName2",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "telecom"
+    },
+    {
+        "id": "3",
+        "logo": "companyLogo3",
+        "name": "companyName3",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "telecom"
+    },
+    {
+        "id": "4",
+        "logo": "companyLogo4",
+        "name": "companyName4",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "telecom"
+    },
+    {
+        "id": "5",
+        "logo": "companyLogo5",
+        "name": "companyName5",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "telecom"
+    },
+    {
+        "id": "6",
+        "logo": "companyLogo6",
+        "name": "companyName6",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "telecom"
+    },
+    {
+        "id": "7",
+        "logo": "companyLogo7",
+        "name": "companyName7",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "telecom"
+    },
+    {
+        "id": "8",
+        "logo": "companyLogo8",
+        "name": "companyName8",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "telecom"
+    },
+    {
+        "id": "9",
+        "logo": "companyLogo9",
+        "name": "companyName9",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "healthcare"
+    },
+    {
+        "id": "10",
+        "logo": "companyLogo10",
+        "name": "companyName10",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "transportation"
+    },
+    {
+        "id": "11",
+        "logo": "companyLogo11",
+        "name": "companyName11",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "transportation"
+    },
+    {
+        "id": "12",
+        "logo": "companyLogo12",
+        "name": "companyName12",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "transportation"
+    },
+    {
+        "id": "13",
+        "logo": "companyLogo13",
+        "name": "companyName13",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "transportation"
+    },
+    {
+        "id": "14",
+        "logo": "companyLogo14",
+        "name": "companyName14",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "transportation"
+    },
+    {
+        "id": "15",
+        "logo": "companyLogo15",
+        "name": "companyName15",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "transportation"
+    },
+    {
+        "id": "16",
+        "logo": "companyLogo16",
+        "name": "companyName16",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "transportation"
+    },
+    {
+        "id": "17",
+        "logo": "companyLogo17",
+        "name": "companyName17",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "transportation"
+    },
+    {
+        "id": "18",
+        "logo": "companyLogo18",
+        "name": "companyName18",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "transportation"
+    },
+    {
+        "id": "19",
+        "logo": "companyLogo19",
+        "name": "companyName19",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "transportation"
+    },
+    {
+        "id": "20",
+        "logo": "companyLogo20",
+        "name": "companyName20",
+        "averageRating": "4",
+        "employeeNumber": "234",
+        "industry": "transportation"
+    },
+    {
+        "id": "1",
+        "logo": "companyLogo1",
+        "name": "ABC Telecom",
+        "averageRating": "4.2",
+        "employeeNumber": "237",
+        "industry": "Telecom"
+    },
+    {
+        "id": "2",
+        "logo": "companyLogo2",
+        "name": "XYZ Solutions",
+        "averageRating": "3.8",
+        "employeeNumber": "182",
+        "industry": "Technology"
+    },
+    {
+        "id": "3",
+        "logo": "companyLogo3",
+        "name": "Global Services",
+        "averageRating": "4.4",
+        "employeeNumber": "310",
+        "industry": "Consulting"
+    },
+    {
+        "id": "21",
+        "logo": "companyLogo21",
+        "name": "Innovative Tech",
+        "averageRating": "4.1",
+        "employeeNumber": "129",
+        "industry": "Technology"
+    },
+    {
+        "id": "22",
+        "logo": "companyLogo22",
+        "name": "Dynamic Solutions",
+        "averageRating": "4.3",
+        "employeeNumber": "186",
+        "industry": "Consulting"
+    },
+    {
+        "id": "31",
+        "logo": "companyLogo31",
+        "name": "Tech Innovators",
+        "averageRating": "4.2",
+        "employeeNumber": "215",
+        "industry": "Technology"
+    },
+    {
+        "id": "32",
+        "logo": "companyLogo32",
+        "name": "Global Telecom",
+        "averageRating": "3.9",
+        "employeeNumber": "287",
+        "industry": "Telecom"
+    },
+    {
+        "id": "41",
+        "logo": "companyLogo41",
+        "name": "Prime Solutions",
+        "averageRating": "4.0",
+        "employeeNumber": "150",
+        "industry": "Technology"
+    },
+    {
+        "id": "42",
+        "logo": "companyLogo42",
+        "name": "Innovative Consulting",
+        "averageRating": "4.5",
+        "employeeNumber": "225",
+        "industry": "Consulting"
+    },
+    {
+        "id": "51",
+        "logo": "companyLogo51",
+        "name": "Digital Innovations",
+        "averageRating": "4.3",
+        "employeeNumber": "198",
+        "industry": "Technology"
+    },
+    {
+        "id": "52",
+        "logo": "companyLogo52",
+        "name": "Global Enterprises",
+        "averageRating": "4.2",
+        "employeeNumber": "305",
+        "industry": "Consulting"
+    },
+    {
+        "id": "53",
+        "logo": "companyLogo53",
+        "name": "Tech Solutions",
+        "averageRating": "3.7",
+        "employeeNumber": "127",
+        "industry": "Technology"
+    },
+    {
+        "id": "54",
+        "logo": "companyLogo54",
+        "name": "Innovative Services",
+        "averageRating": "4.6",
+        "employeeNumber": "260",
+        "industry": "Services"
+    }
+]
